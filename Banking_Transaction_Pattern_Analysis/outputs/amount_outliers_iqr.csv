@@ -1,0 +1,125 @@
+Transaction_ID,Customer_ID,Transaction_Date,Transaction_Amount,Transaction_Type,Channel,City,Account_Type,Status,Flagged,Duplicate_ID
+TXN100003,CUST1146,2025-07-06,6598.35,Debit,UPI,Pune,Savings,Completed,No,False
+TXN100006,CUST1109,2025-08-21,6921.11,Debit,Mobile Banking,Mumbai,Savings,Completed,No,False
+TXN100031,CUST1112,2025-08-02,8729.27,Debit,Mobile Banking,Kolkata,Savings,Completed,No,False
+TXN100071,CUST1108,2025-02-18,6683.06,Credit,UPI,Ghaziabad,Savings,Completed,No,False
+TXN100073,CUST1244,2025-02-21,6835.93,Debit,Net Banking,Chennai,Current,Completed,No,False
+TXN100106,CUST1173,2025-08-10,8984.52,Debit,Credit Card,Kolkata,Savings,Completed,No,False
+TXN100113,CUST1151,2025-06-10,14672.87,Debit,Net Banking,Lucknow,Salary,Completed,No,False
+TXN100125,CUST1162,2025-03-09,11636.33,Debit,Net Banking,Mumbai,Current,Completed,No,False
+TXN100135,CUST1105,2025-12-23,6750.99,Credit,Net Banking,Delhi,Current,Completed,No,False
+TXN100156,CUST1069,2025-12-28,8829.98,Debit,Debit Card,Lucknow,Savings,Completed,No,False
+TXN100167,CUST1198,2025-12-08,9065.89,Credit,Mobile Banking,Delhi,Savings,Completed,No,False
+TXN100179,CUST1081,2025-06-19,18254.08,Debit,UPI,Pune,Savings,Completed,No,False
+TXN100209,CUST1060,2025-04-09,47801.95,Debit,UPI,Delhi,Savings,Completed,No,False
+TXN100220,CUST1097,2025-06-30,12932.0,Debit,Debit Card,Mumbai,Current,Completed,No,False
+TXN100234,CUST1073,2025-02-10,11185.26,Credit,Net Banking,Jaipur,Savings,Completed,No,False
+TXN100248,CUST1058,2025-03-17,8108.24,Credit,Mobile Banking,Jaipur,Savings,Completed,No,False
+TXN100252,CUST1242,2025-07-18,10980.02,Debit,Net Banking,Delhi,Salary,Completed,No,False
+TXN100266,CUST1142,2025-02-10,7241.25,Debit,Net Banking,Jaipur,Salary,Failed,No,False
+TXN100282,CUST1112,2025-11-19,6961.25,Debit,Mobile Banking,Kolkata,Savings,Completed,No,False
+TXN100284,CUST1065,2025-06-30,11082.01,Debit,ATM,Mumbai,Savings,Completed,No,False
+TXN100323,CUST1103,2025-04-22,10705.67,Debit,Net Banking,Delhi,Savings,Completed,No,False
+TXN100361,CUST1138,2025-03-22,6653.03,Debit,UPI,Lucknow,Savings,Completed,No,False
+TXN100374,CUST1003,2025-06-18,11273.44,Credit,ATM,Hyderabad,Savings,Completed,No,False
+TXN100378,CUST1222,2025-09-19,11629.87,Credit,Credit Card,Chennai,Current,Completed,No,False
+TXN100387,CUST1195,2025-06-24,8908.36,Debit,Debit Card,Lucknow,Salary,Pending,No,False
+TXN100393,CUST1132,2025-09-28,8576.15,Credit,Credit Card,Lucknow,Savings,Completed,No,False
+TXN100416,CUST1213,2025-08-28,6757.98,Debit,UPI,Pune,Savings,Completed,Yes,False
+TXN100420,CUST1029,2025-03-21,10421.6,Debit,Debit Card,Mumbai,Salary,Completed,No,False
+TXN100421,CUST1217,2025-02-12,8038.84,Debit,Debit Card,Kolkata,Current,Completed,No,False
+TXN100434,CUST1050,2025-03-24,6483.42,Debit,Mobile Banking,Lucknow,Savings,Completed,No,False
+TXN100436,CUST1081,2025-07-29,7217.93,Credit,Debit Card,Bengaluru,Savings,Completed,No,False
+TXN100460,CUST1247,2025-06-16,9604.78,Credit,Debit Card,Pune,Current,Completed,No,False
+TXN100474,CUST1066,2025-12-04,7318.95,Credit,Debit Card,Lucknow,Savings,Completed,Yes,False
+TXN100478,CUST1046,2025-02-26,24761.58,Credit,UPI,Ghaziabad,Salary,Completed,No,False
+TXN100488,CUST1243,2025-11-14,7586.08,Credit,Credit Card,Mumbai,Current,Completed,No,False
+TXN100491,CUST1203,2025-08-07,6361.07,Credit,UPI,Delhi,Savings,Completed,No,False
+TXN100494,CUST1136,2025-03-12,6598.88,Debit,UPI,Ghaziabad,Salary,Completed,No,False
+TXN100501,CUST1133,2025-05-04,9163.69,Debit,Debit Card,Bengaluru,Current,Pending,No,False
+TXN100561,CUST1063,2025-06-25,10552.21,Debit,Net Banking,Ghaziabad,Current,Completed,No,False
+TXN100571,CUST1186,2025-09-28,7517.37,Debit,ATM,Ghaziabad,Salary,Completed,No,False
+TXN100583,CUST1085,2025-02-08,12457.63,Debit,Credit Card,Jaipur,Savings,Failed,No,False
+TXN100605,CUST1100,2025-12-04,8913.09,Debit,Debit Card,Delhi,Current,Completed,No,False
+TXN100609,CUST1244,2025-06-13,6448.72,Credit,Debit Card,Jaipur,Savings,Completed,No,False
+TXN100614,CUST1034,2025-11-17,14456.35,Debit,Debit Card,Jaipur,Savings,Completed,No,False
+TXN100622,CUST1086,2025-12-11,8952.79,Debit,Net Banking,Pune,Savings,Completed,No,False
+TXN100624,CUST1167,2025-10-11,7003.8,Credit,Mobile Banking,Delhi,Fixed Deposit,Completed,No,False
+TXN100631,CUST1104,2025-07-06,6635.03,Credit,UPI,Bengaluru,Salary,Completed,No,False
+TXN100641,CUST1019,2025-09-09,7470.13,Debit,UPI,Mumbai,Savings,Completed,No,False
+TXN100650,CUST1003,2025-05-19,8704.65,Debit,UPI,Delhi,Savings,Completed,No,False
+TXN100654,CUST1066,2025-09-17,16112.58,Credit,Credit Card,Ghaziabad,Savings,Completed,No,False
+TXN100667,CUST1005,2025-08-30,6492.44,Credit,UPI,Lucknow,Savings,Completed,No,False
+TXN100677,CUST1135,2025-04-19,8017.88,Debit,Mobile Banking,Jaipur,Savings,Completed,No,False
+TXN100707,CUST1089,2025-11-10,8035.1,Debit,Debit Card,Hyderabad,Savings,Completed,No,False
+TXN100709,CUST1084,2025-12-02,7646.38,Debit,ATM,Mumbai,Savings,Completed,No,False
+TXN100738,CUST1138,2025-04-18,7447.65,Credit,Credit Card,Delhi,Savings,Completed,No,False
+TXN100755,CUST1239,2025-07-25,16941.55,Debit,UPI,Bengaluru,Savings,Completed,No,False
+TXN100762,CUST1196,2025-04-28,15931.79,Debit,Debit Card,Lucknow,Savings,Completed,No,False
+TXN100767,CUST1086,2025-06-24,8145.17,Credit,Mobile Banking,Bengaluru,Salary,Pending,No,False
+TXN100769,CUST1236,2025-01-19,8438.68,Debit,UPI,Hyderabad,Salary,Completed,No,False
+TXN100822,CUST1092,2025-04-28,12759.91,Debit,UPI,Bengaluru,Current,Completed,No,False
+TXN100826,CUST1093,2025-12-05,6923.22,Credit,UPI,Kolkata,Savings,Pending,No,False
+TXN100836,CUST1044,2025-07-13,6754.24,Debit,UPI,Delhi,Current,Completed,No,False
+TXN100847,CUST1151,2025-08-08,14574.16,Debit,Debit Card,Jaipur,Salary,Completed,No,False
+TXN100862,CUST1121,2025-11-19,6737.06,Credit,ATM,Mumbai,Current,Completed,No,False
+TXN100863,CUST1029,2025-12-05,8320.65,Debit,ATM,Delhi,Current,Completed,No,False
+TXN100869,CUST1194,2025-02-28,9983.35,Credit,UPI,Ghaziabad,Current,Completed,No,False
+TXN100875,CUST1022,2025-04-17,8311.32,Credit,Net Banking,Kolkata,Savings,Completed,No,False
+TXN100880,CUST1249,2025-09-13,15489.11,Debit,ATM,Hyderabad,Savings,Completed,No,False
+TXN100885,CUST1160,2025-11-13,8688.03,Debit,Credit Card,Jaipur,Savings,Completed,No,False
+TXN100909,CUST1222,2025-03-05,11370.37,Credit,UPI,Lucknow,Current,Completed,No,False
+TXN100913,CUST1048,2025-03-03,6910.76,Credit,Credit Card,Lucknow,Fixed Deposit,Completed,Yes,False
+TXN100928,CUST1112,2025-07-23,6841.04,Credit,Debit Card,Bengaluru,Savings,Completed,No,False
+TXN100931,CUST1068,2025-07-26,8946.19,Debit,Debit Card,Delhi,Savings,Completed,Yes,False
+TXN100944,CUST1106,2025-08-27,8687.51,Debit,UPI,Hyderabad,Savings,Completed,No,False
+TXN100967,CUST1195,2025-06-14,8356.54,Debit,Mobile Banking,Pune,Savings,Pending,No,False
+TXN100986,CUST1048,2025-03-18,6489.16,Debit,Mobile Banking,Lucknow,Current,Completed,No,False
+TXN100996,CUST1041,2025-10-03,8333.46,Debit,UPI,Delhi,Savings,Completed,No,False
+TXN101012,CUST1242,2025-10-18,10550.96,Credit,UPI,Ghaziabad,Savings,Completed,No,False
+TXN101014,CUST1091,2025-06-15,7907.52,Debit,Mobile Banking,Lucknow,Savings,Completed,No,False
+TXN101023,CUST1227,2025-07-27,11169.36,Credit,Mobile Banking,Chennai,Current,Completed,Yes,False
+TXN101024,CUST1178,2025-07-16,7851.12,Credit,UPI,Delhi,Savings,Completed,No,False
+TXN101035,CUST1230,2025-03-15,6890.43,Debit,UPI,Hyderabad,Current,Completed,No,False
+TXN101040,CUST1144,2025-07-30,7565.39,Credit,Debit Card,Ghaziabad,Savings,Completed,No,False
+TXN101078,CUST1069,2025-05-23,6474.62,Debit,ATM,Delhi,Savings,Completed,No,False
+TXN101083,CUST1074,2025-04-03,10564.3,Credit,Branch,Mumbai,Savings,Completed,No,False
+TXN101102,CUST1178,2025-10-20,10669.22,Credit,UPI,Chennai,Salary,Completed,No,False
+TXN101109,CUST1047,2025-10-26,9199.7,Debit,Net Banking,Hyderabad,Savings,Completed,No,False
+TXN101116,CUST1112,2025-05-08,13945.38,Credit,UPI,Ghaziabad,Savings,Completed,No,False
+TXN101124,CUST1186,2025-08-27,7247.54,Credit,Net Banking,Kolkata,Salary,Completed,No,False
+TXN101132,CUST1207,2025-07-31,7127.06,Debit,ATM,Bengaluru,Current,Completed,No,False
+TXN101148,CUST1193,2025-09-30,7011.66,Debit,Branch,Kolkata,Salary,Completed,No,False
+TXN101154,CUST1056,2025-03-12,7300.61,Debit,Mobile Banking,Jaipur,Savings,Pending,No,False
+TXN101157,CUST1162,2025-10-17,12265.8,Debit,Debit Card,Pune,Savings,Completed,No,False
+TXN101161,CUST1025,2025-12-24,12673.91,Debit,Net Banking,Pune,Current,Completed,No,False
+TXN101165,CUST1029,2025-03-25,14382.82,Debit,ATM,Mumbai,Current,Completed,No,False
+TXN101209,CUST1044,2025-12-09,7999.55,Credit,Net Banking,Pune,Savings,Completed,Yes,False
+TXN101219,CUST1161,2025-09-22,11196.73,Debit,UPI,Kolkata,Savings,Completed,No,False
+TXN101229,CUST1183,2025-12-03,11836.52,Debit,ATM,Pune,Salary,Completed,No,False
+TXN101233,CUST1038,2025-08-06,16199.78,Credit,Credit Card,Lucknow,Salary,Completed,No,False
+TXN101235,CUST1135,2025-03-23,7282.64,Debit,Mobile Banking,Kolkata,Savings,Completed,No,False
+TXN101236,CUST1214,2025-11-29,7525.45,Credit,Mobile Banking,Lucknow,Salary,Completed,No,False
+TXN101239,CUST1125,2025-11-28,7216.59,Debit,Credit Card,Kolkata,Savings,Completed,No,False
+TXN101276,CUST1177,2025-09-03,12983.44,Credit,UPI,Lucknow,Current,Completed,No,False
+TXN101291,CUST1209,2025-03-17,15048.74,Credit,Debit Card,Mumbai,Salary,Completed,No,False
+TXN101330,CUST1120,2025-09-29,6641.8,Debit,UPI,Chennai,Salary,Completed,No,False
+TXN101333,CUST1146,2025-07-29,6419.64,Credit,ATM,Kolkata,Salary,Completed,No,False
+TXN101371,CUST1160,2025-08-25,7746.16,Debit,Mobile Banking,Mumbai,Salary,Completed,No,False
+TXN101379,CUST1093,2025-02-11,8536.52,Credit,Mobile Banking,Bengaluru,Savings,Completed,No,False
+TXN101382,CUST1083,2025-04-13,11313.05,Debit,UPI,Jaipur,Salary,Completed,No,False
+TXN101387,CUST1041,2025-08-01,6817.75,Credit,UPI,Delhi,Savings,Completed,No,False
+TXN101392,CUST1102,2025-07-11,10010.39,Credit,Mobile Banking,Delhi,Savings,Completed,No,False
+TXN101407,CUST1209,2025-09-30,6477.78,Debit,Net Banking,Kolkata,Savings,Completed,No,False
+TXN101413,CUST1015,2025-04-29,11387.28,Debit,ATM,Hyderabad,Savings,Completed,No,False
+TXN101418,CUST1053,2025-08-06,6628.93,Credit,Credit Card,Bengaluru,Savings,Completed,No,False
+TXN101426,CUST1236,2025-10-15,10381.45,Credit,Credit Card,Chennai,Current,Completed,No,False
+TXN101437,CUST1235,2025-07-03,7088.6,Credit,Mobile Banking,Pune,Savings,Completed,No,False
+TXN101451,CUST1048,2025-10-17,7683.9,Credit,UPI,Lucknow,Current,Pending,No,False
+TXN101453,CUST1053,2025-09-07,16505.2,Credit,ATM,Pune,Savings,Failed,No,False
+TXN101466,CUST1213,2025-09-28,7475.74,Credit,UPI,Kolkata,Salary,Completed,No,False
+TXN101482,CUST1170,2025-09-03,7847.26,Debit,ATM,Pune,Savings,Completed,No,False
+TXN101491,CUST1118,2025-09-10,15906.28,Credit,UPI,Jaipur,Savings,Completed,Yes,False
+TXN101494,CUST1174,2025-10-29,6706.24,Credit,Branch,Mumbai,Savings,Completed,No,False
+TXN101495,CUST1208,2025-01-25,9948.52,Debit,UPI,Mumbai,Savings,Completed,No,False
+TXN101496,CUST1103,2025-10-04,10428.29,Debit,Mobile Banking,Jaipur,Savings,Completed,No,False

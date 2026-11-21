@@ -1,0 +1,5 @@
+1. Channel usage varies: the most-used channel in this sample is UPI (472 records). Recommendation: review channel capacity and customer support using verified operational data.
+2. Total transaction value differs by city; Delhi has the highest total in this synthetic sample. Recommendation: compare with branch size and customer base before allocating resources.
+3. 7.40% of rows carry the supplied Flagged='Yes' label. Recommendation: treat this only as a dataset label and route real cases through approved review procedures.
+4. 16 rows are associated with repeated Transaction_ID values. Recommendation: validate transaction identifiers at ingestion and investigate duplicates before reporting.
+5. Amount completeness after the cleaning step is 100.00%. Recommendation: monitor missing values and document the chosen imputation method.

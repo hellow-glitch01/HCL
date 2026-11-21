@@ -1,0 +1,11 @@
+Transaction_ID,Customer_ID,Transaction_Date,Transaction_Amount,Transaction_Type,Channel,City,Account_Type,Status,Flagged,Duplicate_ID
+TXN100209,CUST1060,2025-04-09,47801.95,Debit,UPI,Delhi,Savings,Completed,No,False
+TXN100478,CUST1046,2025-02-26,24761.58,Credit,UPI,Ghaziabad,Salary,Completed,No,False
+TXN100179,CUST1081,2025-06-19,18254.08,Debit,UPI,Pune,Savings,Completed,No,False
+TXN100755,CUST1239,2025-07-25,16941.55,Debit,UPI,Bengaluru,Savings,Completed,No,False
+TXN101453,CUST1053,2025-09-07,16505.2,Credit,ATM,Pune,Savings,Failed,No,False
+TXN101233,CUST1038,2025-08-06,16199.78,Credit,Credit Card,Lucknow,Salary,Completed,No,False
+TXN100654,CUST1066,2025-09-17,16112.58,Credit,Credit Card,Ghaziabad,Savings,Completed,No,False
+TXN100762,CUST1196,2025-04-28,15931.79,Debit,Debit Card,Lucknow,Savings,Completed,No,False
+TXN101491,CUST1118,2025-09-10,15906.28,Credit,UPI,Jaipur,Savings,Completed,Yes,False
+TXN100880,CUST1249,2025-09-13,15489.11,Debit,ATM,Hyderabad,Savings,Completed,No,False

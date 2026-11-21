@@ -1,0 +1,11 @@
+BANKING TRANSACTION PATTERN ANALYSIS — QUICK START
+
+1) Open this folder in VS Code.
+2) In terminal run:
+   python -m pip install -r requirements.txt
+3) Run:
+   python main.py
+4) Enter 1 to generate all analyses and report files.
+5) Enter 8 to exit.
+
+The dataset contains 1,500 synthetic rows. Flagged is a supplied label, NOT proof of fraud.
